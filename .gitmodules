@@ -1,0 +1,3 @@
+[submodule "proj_financa/back_financa"]
+	path = proj_financa/back_financa
+	url = https://github.com/victor9743/back_financa
